@@ -18,3 +18,10 @@ def editprofile():
 def crossbrowser(request):
     return request.param
 
+def crossbrowser(request):
+    return request.param
+def crossbrowser(request):
+    return request.param
+def crossbrowser(request):
+    return request.param
+
