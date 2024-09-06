@@ -7,3 +7,35 @@ def test_firstprogram():
 def test_secondprogram():
     print("Good morning")
 
+
+import pytest
+
+
+def test_firstprogram():
+    print("hello")
+@pytest.mark.skip
+def test_secondprogram():
+    print("Good morning")
+
+
+import pytest
+
+
+def test_firstprogram():
+    print("hello")
+@pytest.mark.skip
+def test_secondprogram():
+    print("Good morning")
+
+
+import pytest
+
+
+def test_firstprogram():
+    print("hello")
+@pytest.mark.skip
+def test_secondprogram():
+    print("Good morning")
+
+
+
